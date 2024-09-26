@@ -15,7 +15,7 @@ The paper is authored by:
 
 This repository is structured as follows:
   - Data: All the datasets related with the study are provided in this folder
-  - Source code: Contains the source code, write in .m files. Observe that the Choquet integral as well its generalizations are used in file X.
+  - Source code: Contains the source code of the Choquet integral, write in .m file. 
   - Additional Tables: This folder contain suplementary files regarding the papers.
 
 We also highlight that his paper is an adaptation of the study made by Lou and Deng.
