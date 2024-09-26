@@ -14,7 +14,7 @@ The paper is authored by:
   - Graçaliz P. Dimuro
 
 This repository is structured as follows:
-  - Data: ALl the datasets related with the study are provided in this folder
+  - Data: All the datasets related with the study are provided in this folder
   - Source code: Contains the source code, write in .m files. Observe that the Choquet integral as well its generalizations are used in file X.
   - Additional Tables: This folder contain suplementary files regarding the papers.
 
